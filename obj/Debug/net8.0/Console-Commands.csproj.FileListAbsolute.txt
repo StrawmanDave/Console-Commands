@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.AssemblyInfo.cs
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.sourcelink.json
+/home/david/david-progamming-1400/Console-Commands/bin/Debug/net8.0/Console-Commands
+/home/david/david-progamming-1400/Console-Commands/bin/Debug/net8.0/Console-Commands.deps.json
+/home/david/david-progamming-1400/Console-Commands/bin/Debug/net8.0/Console-Commands.runtimeconfig.json
+/home/david/david-progamming-1400/Console-Commands/bin/Debug/net8.0/Console-Commands.dll
+/home/david/david-progamming-1400/Console-Commands/bin/Debug/net8.0/Console-Commands.pdb
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.dll
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/refint/Console-Commands.dll
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.pdb
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/Console-Commands.genruntimeconfig.cache
+/home/david/david-progamming-1400/Console-Commands/obj/Debug/net8.0/ref/Console-Commands.dll
