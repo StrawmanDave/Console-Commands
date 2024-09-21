@@ -167,8 +167,115 @@ Console.BackgroundColor = ConsoleColor.Blue;
 Console.SetCursorPosition (26,10);
 Console.Write("  ");
 
+Console.SetCursorPosition (0,11);
+Console.Write("  "); // 1blue
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (2,11);
+Console.Write("    "); // 2 white
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.SetCursorPosition (6,11);
+Console.Write("    "); // 2 darkblue
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (10,11);
+Console.Write("        "); // 4 red
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.SetCursorPosition (18,11);
+Console.Write("    "); // 2 darkblue
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (22,11);
+Console.Write("    "); // 2 White
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition (26,11);
+Console.Write("  "); // 1 blue
+
+Console.SetCursorPosition (0,12);
+Console.Write("  "); // 1 blue
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (2,12);
+Console.Write("      "); // 3 white
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (8,12);
+Console.Write("  "); // 1 red
+Console.BackgroundColor = ConsoleColor.Yellow;
+Console.SetCursorPosition(10,12);
+Console.Write("  "); // 1 yellow
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (12,12);
+Console.Write("    "); // 2 red
+Console.BackgroundColor = ConsoleColor.Yellow;
+Console.SetCursorPosition (16,12);
+Console.Write("  "); // 1 yellow
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (18,12);
+Console.Write("  "); // 1 red
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (20,12);
+Console.Write("      "); // 3 white
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition (26,12);
+Console.Write("  "); // 1 blue
+
+Console.SetCursorPosition (0,13);
+Console.Write("  "); // 1 blue
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (2,13);
+Console.Write("    "); // 2 white
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (6,13);
+Console.Write("                "); // 8 red
+Console.BackgroundColor = ConsoleColor.White;
+Console.SetCursorPosition (22,13);
+Console.Write("    "); // 2 white
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.Write("  "); // 1 blue
+
+Console.SetCursorPosition (0,14);
+Console.Write("      "); // 3 blue
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (6,14);
+Console.Write("      "); // 3 red
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition (12,14);
+Console.Write("    "); // 2 blue
+Console.BackgroundColor = ConsoleColor.Red;
+Console.SetCursorPosition (16,14);
+Console.Write("      "); // 3 red;
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition(22,14);
+Console.Write("      "); // 3 blue
+
+Console.SetCursorPosition (0,15);
+Console.Write("    "); // 2 blue
+Console.BackgroundColor =   ConsoleColor.DarkGray;
+Console.SetCursorPosition (4,15);
+Console.Write("      "); // 3 dark gray
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition(10,15);
+Console.Write("      "); // 3 blue
+Console.BackgroundColor = ConsoleColor.DarkGray;
+Console.SetCursorPosition(16,15);
+Console.Write("      "); // 3 dark gray
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition(22,15);
+Console.Write("      "); // 3 blue
+
+Console.SetCursorPosition(0,16);
+Console.Write("  "); // 1 blue
+Console.BackgroundColor = ConsoleColor.DarkGray;
+Console.SetCursorPosition(2,16);
+Console.Write("        "); // 4 dark gray
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition(10,16);
+Console.Write("      "); // 3 blue
+Console.BackgroundColor = ConsoleColor.DarkGray;
+Console.SetCursorPosition(16,16);
+Console.Write("        "); // 4 gray
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.SetCursorPosition(24,16);
+Console.Write("    "); // 2 blue
+
 Console.SetCursorPosition (0,17);
 Console.WriteLine("                            "); // Bottom Sky
 
-Console.SetCursorPosition (0,18); // so the color is not on the same line
+Console.SetCursorPosition (0,18); // so the color is not on the same lin
 Console.BackgroundColor = ConsoleColor.Black; // so the text background is not colored
